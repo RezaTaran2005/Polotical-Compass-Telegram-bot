@@ -1,6 +1,6 @@
 # 🧭 Political Compass Telegram Bot
 
-A professional, modular Telegram bot that runs the Political Compass test, generates a personalised compass chart, and delivers results — all via Inline keyboards.
+A professional, modular Telegram bot that runs the Political Compass test.
 
 ---
 
@@ -42,7 +42,7 @@ political_compass_bot/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/RezaTaran2005/Polotical-Compass-Telegram-bot.git
 cd political_compass_bot
 pip install -r requirements.txt
 ```
